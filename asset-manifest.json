@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/freshChat/static/css/main.6ce0c4b1.chunk.css",
+    "main.js": "/freshChat/static/js/main.86840a81.chunk.js",
+    "main.js.map": "/freshChat/static/js/main.86840a81.chunk.js.map",
+    "runtime-main.js": "/freshChat/static/js/runtime-main.12cd47c8.js",
+    "runtime-main.js.map": "/freshChat/static/js/runtime-main.12cd47c8.js.map",
+    "static/css/2.150d169a.chunk.css": "/freshChat/static/css/2.150d169a.chunk.css",
+    "static/js/2.01b0c681.chunk.js": "/freshChat/static/js/2.01b0c681.chunk.js",
+    "static/js/2.01b0c681.chunk.js.map": "/freshChat/static/js/2.01b0c681.chunk.js.map",
+    "static/js/3.ae234cb5.chunk.js": "/freshChat/static/js/3.ae234cb5.chunk.js",
+    "static/js/3.ae234cb5.chunk.js.map": "/freshChat/static/js/3.ae234cb5.chunk.js.map",
+    "index.html": "/freshChat/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/freshChat/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6ce0c4b1.chunk.css.map": "/freshChat/static/css/main.6ce0c4b1.chunk.css.map",
+    "static/js/2.01b0c681.chunk.js.LICENSE.txt": "/freshChat/static/js/2.01b0c681.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/freshChat/static/media/pattern-fchat-light.545a51ac.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12cd47c8.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.01b0c681.chunk.js",
+    "static/css/main.6ce0c4b1.chunk.css",
+    "static/js/main.86840a81.chunk.js"
+  ]
+}
