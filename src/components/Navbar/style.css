@@ -1,0 +1,139 @@
+.Navs{
+    position: relative;
+}
+.Nav{
+    border-bottom: 1px solid #D4EBFA;
+    display: flex;
+}
+span img{
+    background-size: 50px;
+    width: 125px;
+    margin: 13.5px 0;
+    height: 25px;
+    opacity: .9;
+}
+.Nav-list{
+    /* float: right; */
+    padding-left: 448px;
+    /* justify-content: flex-end; */
+}
+.Nav-list ul  {
+    display: block;
+    list-style: none;
+    display: flex;
+    margin-bottom: 0;
+}
+
+ /* Dropdown Button */
+  .dropbtn {
+    padding: 16px;
+    font-size: 13px  ;
+    border: none;
+    background-color: transparent;
+    color: #666;
+    font-weight: 600;
+
+  }
+  /* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  /* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    min-width: 180px;
+  }
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+      display: block;
+    z-index: 99999999;    
+    }
+
+  /* ///////////////////////// superNav //////////////////////////////// */
+  .superNav{
+      background-color: transparent;
+    margin-top: 7px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .super-Nav-list ul{
+      display: flex;
+      list-style: none;
+      padding-left: 80px;
+      
+  }
+  .super-Nav-list li {
+    margin: 0 14px
+  }
+  
+  .super-Nav-list a {
+    font-size: 16px;  
+}
+.super-Nav-list .sign-btn{
+    text-transform: uppercase;
+    background-color: #45A4EC;
+    color: #fff;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 5px;
+    padding: 5px 24px;
+    margin-top: 10px;
+    transition: background-color .15s ease-in;
+
+}
+.super-Nav-list .dropbtn:hover{
+    color: #45a4ec;
+}
+.super-Nav-list .sign-btn:hover {
+    color: #fff;
+    
+}
+/* ////////////////////////////// */
+.Experience , .Marketing{
+  width: 200px;
+  margin: 15px;
+}
+.cont .items{
+  width: 250px;
+}
+
+.cont{
+  background-color: #fff;
+  font-size: 12px;
+  width: 600px;
+}
+
+.dropdown-content img{
+  width: 100px;
+}
+.items:hover{
+background-color: #F8F8F8;
+}
+.dropdown .dropdown-content a{
+  font-size: 14px;
+  color: #000;
+  opacity: .9;
+  cursor: pointer;
+  font-weight: normal;
+}
+.dropdown .dropdown-content a:hover{
+  color: #3973e6;
+}

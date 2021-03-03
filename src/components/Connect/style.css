@@ -1,0 +1,29 @@
+
+.Connect .text{
+    background-color:#F7F7F7 ;
+    text-align: center;
+    padding-top: 38px;
+    padding-bottom: 11px;
+}
+.Connect img {
+    /* padding-top: 0; */
+    position: relative;
+opacity: .9;
+max-width: 100%;
+margin: auto;
+}
+.Connect h2 {
+    font-family: Sailec-Medium, Helvetica, sans-serif;
+    font-size: 36px;
+    line-height: 48px;
+    font-weight: 500;
+    color: #4d4d4d;
+}
+.Connect p {
+    font-family: National-Book, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #666;
+}
+

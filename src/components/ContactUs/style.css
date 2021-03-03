@@ -1,0 +1,130 @@
+.ContactUs {
+    background-color: #FAFAFA;
+    padding-top: 40px;
+}
+.ContactUs .logo{
+    width: 107px;
+    background-size: 95px;
+    height: 32px;
+    margin-top: 0;
+    margin-left: 18px;
+}
+.ContactUs ul li{
+    list-style: none;
+}
+.ContactUs ul li a{
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #666;
+    opacity: .8;
+}
+.ContactUs ul li a:hover{
+    opacity: 1;
+}
+.ContactUs p{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    color: #4d4d4d;
+    font-family: Sailec-Bold, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 9px;
+    opacity: .9;
+}
+.ContactUs .box{
+    margin-left: 15px;
+    border-left: 1px solid #cac7c7;
+}
+.ContactUs .Freshchat{
+    margin-left: -42px;
+
+}
+.ContactUs .botom{
+border-top: 1px solid #cac7c7 ;
+padding-top: 13px;
+margin-left: 10px;
+margin-bottom: 30px;
+font-size: 14px;
+
+}
+.ContactUs .botom h6{
+    opacity: .8;
+    display: inline;
+    margin-right: 15px;
+    font-weight: 700;
+    font-size: 13px;
+}
+.ContactUs .botom span{
+    margin: 0 12px;
+    color: #4d4d4d;
+}
+.ContactUs .login-btn{
+    background-color: #fff;
+    font-family: Sailec-Bold, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #4FA4EC;
+    text-transform: uppercase;
+    padding: 7px;
+    width: 90px;
+    border: solid 1px #4FA4EC;
+    border-radius: 5px;
+    text-align: center;
+    transition: background-color .15s ease-in;
+    margin: 14px 31px
+}
+.ContactUs .login-btn:hover {
+    background-color:#E8F2F9 ;
+}
+.users .app{
+    width: 118px;
+    margin: 7px 22px;
+    opacity: .7;
+}
+.users .app:hover{
+    opacity: 1;
+}
+.social {
+    margin: 14px 6px;
+}
+.users .icon{
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    font-size: .875rem;
+    opacity: .8;
+    color: #4d4d4d;
+    background-color: #fff;
+    border: 1px solid #b3b3b3;
+    border-radius: 50%;
+    transition: background-color 250ms,border 250ms;
+    text-align: center;
+    padding-top: 5px;
+    margin: 5px;
+}
+.users .fa:hover{
+background-color: blue;
+color: #fff;
+}
+.users .yo:hover{
+    background-color: red;
+    color: #fff;
+}
+.users .fa:hover{
+    background-color: #3C5A96;
+    color: #fff;
+ }
+ .users .tw:hover{
+    background-color: #59ADEB;
+    color: #fff;
+ }
+ .users .li:hover{
+    background-color: #127BB7;
+    color: #fff;
+ }
+ .users .me:hover{
+    background-color: #00AB6C;
+    color: #fff;
+ }

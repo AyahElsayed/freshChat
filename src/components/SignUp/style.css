@@ -1,0 +1,62 @@
+.signup{
+    margin-top: 20px;
+    padding-top: 20px;
+    background-color: #F8FBFE;
+}
+.signup .subtext {
+    background-color: #D5EAFB;
+    padding: 5px 8px;
+    border-radius: 11px;
+    display: inline-block;
+    text-transform: uppercase;
+    color: #666;
+    /* font-family: Sailec-Medium, Helvetica, sans-serif; */
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    /* word-spacing: 3px; */
+    letter-spacing: 1px;
+}
+.signup h1 {
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 54px;
+    color: #4d4d4d;
+}
+.signup .desc{
+    font-family: National-Book, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #666666;
+}
+.signup .subdesc{
+    font-size: 16px;
+    line-height: 28px;
+    color: #666666;
+    font-weight: 400;
+    padding-top: 10px;
+}
+.signup .button{
+    background-color: #3995DC;
+    font-family: Sailec-Bold, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 25px;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    min-width: 160px;
+    border-radius: 3px;
+    text-align: center;
+    letter-spacing: 1px;
+    transition: background-color .15s ease-in;
+}
+.customers-logos{
+    margin: 50px 0;
+    padding: 30px;
+    background-color: #fff;
+}
+.customers-logos img{
+    width: 100%;
+}

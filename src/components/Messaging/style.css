@@ -1,0 +1,114 @@
+.Messaging , .Messaging-icons{
+    text-align: center;
+    background-color: #F7F7F7;
+    padding: 60px 0;
+}
+.Messaging-icons{
+    padding-top: 30px;
+}
+.Messaging .subtitle {
+    color: #666666;
+    font-family: National-Book, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+}
+.Messaging strong{
+    margin-left: 67px;
+}
+.Messaging h2{
+    color: #4D4D4D;
+    font-family: Sailec-Medium, Helvetica, sans-serif;
+    font-size: 36px;
+    line-height: 48px;
+    font-weight: 600;
+}
+.Messaging-icons img{
+    width: 210px;
+}
+.card-icon .sub-title{
+    color: #666666;
+    font-family: National-Book, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+}
+.card-icon{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.Messaging-icons .subtitle{
+font-weight: 700;
+}
+.Messaging-icons .desc{
+    color: #666666;
+    font-family: Sailec-Medium, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 28px;
+    font-weight: 400;
+}
+/* //////////////////////////////////////////// */
+.business{
+    text-align: center;
+    padding: 60px 0;
+}
+.business .button{
+    background-color: #3995DC;
+    font-family: Sailec-Bold, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 25px;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    min-width: 160px;
+    border-radius: 3px;
+    text-align: center;
+    letter-spacing: 1px;
+    transition: background-color .15s ease-in;
+}
+/* ////////////////////////////////////// */
+.channels{
+    margin-top: 50px;
+    padding: 0px 82px;
+}
+.connect{
+    padding: 0 57px;
+}
+.channels .connect span{
+    background-color: #D5EAFB;
+    padding: 3px 10px;
+    border-radius: 11px;
+    display: inline-block;
+    text-transform: uppercase;
+    color: #666;
+    font-family: Sailec-Medium, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 1px;
+}
+.connect h2 {
+    color: #4d4d4d ;
+    font-family: Sailec-Medium, Helvetica, sans-serif;
+    font-size: 36px;
+    line-height: 48px;
+    font-weight: 500;
+}
+.connect .info{
+    color: #666 ;
+    font-family: National-Book, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400;
+}
+.connect .info a , .anchor{
+    color: #3995dc;
+}
+.connect .info a:hover ,.anchor:hover {
+    text-decoration: none;
+    cursor: pointer;
+    color:  #3995dc;
+    transition: background-color .15s ease-in;
+
+}

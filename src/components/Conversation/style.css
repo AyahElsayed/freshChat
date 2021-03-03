@@ -1,0 +1,91 @@
+
+.Conversation .title{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 48px;
+    color: 4d4d4d#;
+    padding: 30px;
+}
+.card {
+    height: 335px;
+    width: 845px;
+    background-color: #fff;
+    box-shadow: 0 0 40px 0 rgba(0,0,0,.1);
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 20px;
+}
+.card img {
+    width: 160px;
+}
+.card .icon {
+    color: #A2D1F5;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.card .desc{
+    font-family:National-Book, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    font-style: italic;
+    color: #6B6B6B;
+    padding: 0px 107px;
+    margin-bottom: 0;
+}
+.card .line{
+    content: "";
+    margin: auto;
+    display: block;
+    height: 1px;
+    width: 90px;
+    background-color: #45a4ec;
+    opacity: .5;
+}
+.card .name{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+}
+.card .subdesc{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    color: #666;
+}
+/* ///////////////////////////////////////// */
+.customers{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.sign{
+    height: 250px;
+    background-image: url("pattern-fchat-light.svg");
+    background-size: cover;
+    padding-top: 40px;
+}
+.customers .desc{
+    font-size: 16px;
+    line-height: 28px;
+    color: #666666;
+    font-weight: 400;
+    padding-top: 0;
+}
+.button1{
+    background-color: #3995DC;
+    font-family: Sailec-Bold, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 10px 12px;
+    width: 200px;
+    border-radius: 3px;
+    text-align: center;
+    letter-spacing: 1px;
+    transition: background-color .15s ease-in;
+    margin-bottom: 15px;
+}

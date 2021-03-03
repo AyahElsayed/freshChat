@@ -1,0 +1,38 @@
+.Footer{
+    background-color: #F1F1F1;
+    
+}
+.space{
+    height: 50px;
+    background-color: #FAFAFA;
+}
+.content{
+    height: 70px;
+    padding: 25px 0;
+    
+}
+.copyRight , .content a{
+    font-size: 14px;
+    color: #333  !important;
+    opacity: .9;
+    font-weight: 300;
+}
+.chaticon{
+    background-color: #3C5A96;
+    border-radius: 34px 8px 34px 34px;
+    bottom: 20px;
+    box-shadow: 0 5px 4px 0 rgba(0,0,0,.26);
+    cursor: pointer;
+    position: fixed;
+    right: 10px;
+    z-index: 999999999999;
+    height: 60px;
+    width: 60px;
+}
+.innericon{
+    font-size: 26px;
+    text-align: center;
+    top: 9px;
+    position: absolute;
+    right: 17px;
+}

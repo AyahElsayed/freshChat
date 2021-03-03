@@ -1,0 +1,43 @@
+.ChatBots{
+    background-color: #F7F7F7;
+    padding: 40px 0;
+    
+}
+.bots{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.ChatBots span {
+    background-color: #D5EAFB;
+    padding: 3px 10px;
+    border-radius: 11px;
+    display: inline-block;
+    text-transform: uppercase;
+    color: #666;
+    font-family: Sailec-Medium, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 1px;
+}
+.ChatBots h2{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+    color: #4d4d4d;
+}
+.ChatBots .subtitle {
+    color: #666666;
+    font-family: National-Book, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    padding-right: 115px;
+}
+.ChatBots a{
+    color: #3995dc;
+    font-family: National-Book, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 600;
+}

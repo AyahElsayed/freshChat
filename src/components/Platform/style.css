@@ -1,0 +1,16 @@
+.Platform{
+    height: 400px;
+    text-align: center;
+    /* background: url('./assests/pattern-fchat-light.svg'); */
+    background-image: url("pattern-fchat-light.svg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+   
+}
+.subplatform p{
+    font-size: 19px;
+    padding: 0 120px;
+}
